@@ -1,4 +1,4 @@
-//1
+#include <adc.h>
 #include <iostream>
 #include <cstring>
 #include <sstream>
