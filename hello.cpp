@@ -1,4 +1,3 @@
-#include <adc.h>
 #include <iostream>
 #include <cstring>
 #include <sstream>
