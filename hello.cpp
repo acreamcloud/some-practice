@@ -1,3 +1,4 @@
+//1
 #include <iostream>
 #include <cstring>
 #include <sstream>
@@ -52,8 +53,4 @@ int main()
     c.GetInput();
     c.Display();
     return 0;
-}
-int main()
-{
-    
 }
